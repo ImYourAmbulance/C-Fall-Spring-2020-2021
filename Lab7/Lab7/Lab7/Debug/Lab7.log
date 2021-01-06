@@ -1,0 +1,6 @@
+﻿  Lab7.cpp
+C:\Users\ildenisov\source\repos\Lab7\Lab7\Lab7.cpp(38,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ildenisov\source\repos\Lab7\Lab7\Lab7.cpp(39,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ildenisov\source\repos\Lab7\Lab7\Lab7.cpp(41,28): warning C4018:  '<': signed/unsigned mismatch
+Debug\Lab7.obj : warning LNK4042: object specified more than once; extras ignored
+  Lab7.vcxproj -> C:\Users\ildenisov\source\repos\Lab7\Debug\Lab7.exe
